@@ -145,5 +145,6 @@
        (stmt-list)]
       [else (error "Syntax error, line: "line-cnt)]))
 
+;couldn't get tokenizer and parse to run, put in comments to remove error and when code runs it shows txt file in list
 ;(tokenizer(input-sample))
 ;(parser(input-sample))
